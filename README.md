@@ -8,4 +8,6 @@ The project was broken into serveral iterations, allowing for there to be parts 
 The first step was to decide the web app to be built.
 The second step was to decide which visual design tool to use, i chose to use Figma. 
 The third step was to design a simple currency converter outline.
+![First Figma Design](https://user-images.githubusercontent.com/91996898/213736098-0fe766be-d690-49fd-b03e-c475999d70b2.JPG)
+
 
