@@ -34,4 +34,8 @@ I used test driven development by viewing the output of the code on the live ser
 
 
 
+### Evaluation
+The design of my currency converter web app is simplistic in appearance but it does what it is supposed to do which is to supply a conversion rate. The conversion rate is correct as found during test driven development and the helpful feature of the host API (application programming interface). The appearance of the web app could be more responsive and have layers, this would be an enhancement of the current web app. The appearance can be changed by adapting the CSS code and the HTML code. Only the CSS code needs to be adapted if there are no extra visual features to include. If extra conmtainers are ot be included, this will need to be reflected in the HTML code. The JavaScript code can be adpated if extra functionality is required.
+Coding in HMTL and CSS is not as difficult as i thought it would be but this is only a small project. However, i beleiuve this is a good foundation to build upon. JavaScript is not my favourite language but i have found it to be very useful in achieving the functionality in the Caspian currency converter.
+By using GitHub as my primary project tool, it helped to stya organised and ensure i had completed the tasks required.
 
