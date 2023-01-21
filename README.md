@@ -6,6 +6,8 @@ This project is regarding building a web app currency converter using HTML, CSS 
 The project has been planned using a hybrid of agile and waterfall modern planning techniques. Using a hybrid approached helped me to complete stages of the project in a linear sequential order but allowing for adaptive planning and improvements on the design.
 The project was broken into serveral iterations, accomodating adaptive planning and continuous improvement of the product. A GitHub project planner was used to keep track of the project requirments and progress, assign responsibilities and link with the project.
 To allow for accurate tracking of stages in the project, the stages were raised as issues in GitHub and linked to the project.
+\\
+
 ![GitHub Project Planning Tool](https://user-images.githubusercontent.com/91996898/213866503-cb385aa3-91e5-472d-8143-77793a8e45a2.JPG)
 
 The first step was to decide the web app to be built, as this is my first time in building a web app and using HTML, CSS and JavaScript, i decided to build a currency converter as there are many resources available on this topic.
