@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>Software Engineering Summative 1 Caspian Currency Converter</title>
+</head>
+<body>
+  <div class="First_frame">
+    <div class="header">
+      <h1>Caspian Currency Converter</h1>
+    </div>  
+    <div class="date">05/01/2023</div>
+    <ul class="Currencies">
+      <li class="Currency base-currency" id="USD">
+        <img src="http://www.geonames.org/flags/l/us.gif" class="flag">
+        <div class="info">
+          <p class="input"><span class="currency-symbol">&#36;</span><input placeholder="0.000"></p>
+          <p class="currency-name">USD - US Dollar</p>
+          <p class="base-currency-rate">1 USD = 1 USD</p>
+        </div>
+        <span class="close">&times;</span>
+      </li>  
+      <li class="Currency" id="GBP">
+        <img src="http://www.geonames.org/flags/l/gb.gif" class="flag">
+        <div class="info">
+          <p class="input"><span class="currency-symbol">&#163;</span><input placeholder="0.000"></p>
+          <p class="currency-name">GBP - Great British Pound </p>
+          <p class="base-currency-rate">1 USD = 0.5 GBP</p>
+        </div>
+        <span class="close">&times;</span>
+      </li>
+    </li>  
+    <li class="Currency" id="RUB">
+      <img src="http://www.geonames.org/flags/l/ru.gif" class="flag">
+      <div class="info">
+        <p class="input"><span class="currency-symbol">&#8381;</span><input placeholder="0.000"></p>
+        <p class="currency-name">RUB - Ruble </p>
+        <p class="base-currency-rate">1 USD = 5 RUB</p>
+      </div>
+      <span class="close">&times;</span>
+    </li>  
+    <li class="Currency" id="JPY">
+      <img src="http://www.geonames.org/flags/l/jp.gif" class="flag">
+      <div class="info">
+        <p class="input"><span class="currency-symbol">&#165;</span><input placeholder="0.000"></p>
+        <p class="currency-name">JPY - Japanese Yen </p>
+        <p class="base-currency-rate">1 USD = 1.15 JPY</p>
+      </div>
+      <span class="close">&times;</span>  
+      </li>
+    </ul>
+    <button class="add-currency-btn">Add Currency</button>
+    <ul class ="add-currency-list">
+      <li data-currency="USD" class="disabled"><img src ="http://www.geonames.org/flags/l/us.gif" class="flag"><span>USD - US Dollar</span></li>
+      <li data-currency="NZD"><img src ="http://www.geonames.org/flags/l/nz.gif" class="flag"><span>NZ - New Zealand Dollar</span></li>
+    </ul>
+  </div>
+
+
+  <script src="index.js"></script>
+</body>
+</html>
