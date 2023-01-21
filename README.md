@@ -12,4 +12,6 @@ The third step was to create an account and design a simple currency converter o
 
 ![First Figma Design](https://user-images.githubusercontent.com/91996898/213736098-0fe766be-d690-49fd-b03e-c475999d70b2.JPG)
 
+Once the initial design was ready, i used Visual Studio Code to write the HTML and CSS code, JavaScript was added at a later date as JavaScript is the functionality and i did not need this to build the visual design of the currency converter. This allowed the project to move forward more quickly as i did not need to build the app end to end before any progress could be viewed.
+
 
