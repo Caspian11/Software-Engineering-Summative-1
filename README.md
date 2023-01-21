@@ -42,3 +42,8 @@ The design of my currency converter web app is simplistic in appearance but it d
 Coding in HMTL and CSS is not as difficult as i thought it would be, the use of CSS seems to simplify the complexity of HTML, but this is only a small project. However, i believe this is a good foundation to build upon. JavaScript is not my favourite language but i have found it to be very useful in achieving the functionality in the Caspian currency converter.
 By using GitHub as my primary project tool, it helped to stay organised and ensure i had completed the tasks required.
 
+  
+#### Bibliography
+  
+  
+
