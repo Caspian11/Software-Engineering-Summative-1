@@ -16,9 +16,7 @@ The third step was to create an account and design a simple currency converter o
 
 Once the initial design was ready, i used Visual Studio Code to write the HTML and CSS code, JavaScript was added at a later date as JavaScript is the functionality and i did not need this to build the visual design of the currency converter. This allowed the project to move forward more quickly as i did not need to build the app end to end before any progress could be viewed.
 
-Figma records the CSS code assigned to each part of design so the CSS code can be reused when coding the web app, this ensures the product coding is the same as the product design in Figma. Unfortunately, figma does not include all of the CSS code or the developer may want to specify an extra feature, this must be written directly into the CSS codespace separetely. 
-
-### Figma Provided CSS Code
+Figma records the CSS code assigned to each part of design so the CSS code can be reused when coding the web app, this ensures the product coding is the same as the product design in Figma. Unfortunately, figma does not include all of the CSS code or the developer may want to specify an extra feature, this must be written directly into the CSS codespace separetely. The images showing the compariosn in code are included in the GitHub project file list and a pull request was used to perform this. 
 
 
 
