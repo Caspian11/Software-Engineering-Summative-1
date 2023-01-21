@@ -28,7 +28,7 @@ The functionality allows the user to select the currency they are converting fro
 
 
 ### TESTING
-I used test driven development by viewing the output of the code on the live server before deciding if the code was correct and how i wanted the design to look. If the design was not correct, i would change the code until the output was correct. I also tested the conversion between currencies viewed in the web app and the conversion between currencies viewed in the
+I used test driven development by viewing the output of the code on the live server before deciding if the code was correct and how i wanted the design to look. If the design was not correct, i would change the code until the output was correct. I also tested the conversion between currencies viewed in the web app and the conversion between currencies viewed in the google currency conversion tool. At time, i needed to retunr to Figmas to update the design as the code had slightly changed such as the font appeard to be smaller when viewed on the web page so i increased the font in the CSS file.
 
 ![Caspian Currency Conversion GBP - EUR](https://user-images.githubusercontent.com/91996898/213887962-25d60585-b4a3-45e8-8143-03753ec7b7ad.JPG)
 
