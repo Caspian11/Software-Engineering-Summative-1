@@ -23,7 +23,7 @@ Figma records the CSS code assigned to each part of design so the CSS code can b
 
 ### Coding the Currency Converter
 Using Visual Studio, i create a HTML file and a CSS file. I documented the link between the HTML file and the CSS file so the design elements could be coded in the CSS file but fed back through to the HTML file. HTML is used to define the structure of a web page, text included in the <body> section of the HTML code will be displayed on the web page, such as where the container should be placed, if there is going to be a header and a date and if the date is placed above or below the header, on the web page. HTML also allows the developer to add in different classes such as the use of a button or boxes requiring user input. 
-The CSS file is used to specify the visual design and presentation of the web page, each class in the CSS file is related back to the HTML file, if there isnt a link, there will be no output and the CSS code is useless. The majority of the CSS code can be copied from design tools such as Figma, but the appearance may not be the excat same and will need to be adapted by the developer. After the design elements were coded in Visual Studio i coded the functionality using JavaScript, the initial code was found on https://www.youtube.com/watch?v=6Dk4OEU4oGc&t=417s
+The CSS file is used to specify the visual design and presentation of the web page, each class in the CSS file is related back to the HTML file, if there isnt a link, there will be no output and the CSS code is useless. The majority of the CSS code can be copied from design tools such as Figma, but the appearance may not be the excat same and will need to be adapted by the developer. After the design elements were coded in Visual Studio i coded the functionality using JavaScript, the initial code was found on https://www.youtube.com/watch?v=6Dk4OEU4oGc&t=417s (Tech, 2021).  
 The functionality allows the user to select the currency they are converting from and to such as GBP (Great British Pounds) to JPY (Japanese Yen). The JavaScript code is assigned to an API which contains the abbreviations and the full names of all currencies(https://api.frankfurter.app/currencies) and also an API for conversion rates (api.frankfurter.app). The use of JavaScript also requires to be linked back through to the HTML file using <script src="index.js"></script>. JavaScript interacts with HTML and requests the return of requested information. JavaScript is also able to add event handlers to specified elements, the event handlers are fired when the specified action occurrs such as a 'click'. 
 
 
@@ -45,5 +45,20 @@ By using GitHub as my primary project tool, it helped to stay organised and ensu
   
 #### Bibliography
   
+Canvas, 2022
+  
+The Collaborative Interface Design Tool. (no date) Figma. Available at: https://www.figma.com/ (Accessed: January 21, 2023). 
+  
+How to setup &amp; run JavaScript code in Visual studio code / vscode VS code on windows 7 10 11 (2022) YouTube. YouTube. Available at: https://www.youtube.com/watch?v=RSti2p3HHtE&amp;t=41s (Accessed: January 21, 2023). 
+  
+Tech, S. (2021) Currency convertor app using JavaScript mini projects for Beginners, YouTube. YouTube. Available at: https://www.youtube.com/watch?v=6Dk4OEU4oGc&amp;t=417s (Accessed: January 21, 2023). 
+  
+Unknown (no date) JavaScript HTML Dom Eventlistener, JavaScript DOM EventListener. Available at: https://www.w3schools.com/js/js_htmldom_eventlistener.asp (Accessed: January 20, 2023). 
+  
+
+  
+
+  
+
   
 
