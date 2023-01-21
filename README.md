@@ -12,7 +12,7 @@ To allow for accurate tracking of stages in the project, the stages were raised 
 
 The first step was to decide the web app to be built, as this is my first time in building a web app and using HTML, CSS and JavaScript, i decided to build a currency converter as there are many resources available on this topic.
 The second step was to decide which visual design tool to use, i chose to use Figma as i like the simplicity of Figma and the areas of CSS code it offers and Figmas is a free alternative to Jira.
-The third step was to create an account and design a simple currency converter outline in Figma. Keep the design simple, so i can move on to the coding of the product. Here is a screenshot of the initial currency converter design in Figma.
+The third step was to create an account and design a simple currency converter outline in Figma. Keep the design simple, so i can move on to the coding of the product. Below is a screenshot of the initial currency converter design in Figma.
 
 
 ![First Figma Design](https://user-images.githubusercontent.com/91996898/213887177-de915e21-35d5-4f1b-ab3c-957eed06a2de.JPG)
@@ -21,6 +21,11 @@ Once the initial design was ready, i used Visual Studio Code to write the HTML a
 
 Figma records the CSS code assigned to each part of design so the CSS code can be reused when coding the web app, this ensures the product coding is the same as the product design in Figma. Unfortunately, figma does not include all of the CSS code or the developer may want to specify an extra feature, this must be written directly into the CSS codespace separetely. The images showing the compariosn in code are included in the GitHub project file list and a pull request was used to perform this. 
 
+After the design elements were coded in Visual Studio i coded the functionality using JavaScript, the initial code was found on https://www.youtube.com/watch?v=6Dk4OEU4oGc&t=417s
+The functionality allows the user to select the currency they are converting from and to such as GBP (Great British Pounds) to JPY (Japanese Yen). The JavaScript code is assigned to an API which contains the abbreviations and the full names of all currencies(https://api.frankfurter.app/currencies) and also an API for conversion rates (api.frankfurter.app).
+
+### TESTING
+I used test driven development by viewing the output of the code on the live server before deciding if the code was correct. 
 
 
 
