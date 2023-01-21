@@ -27,7 +27,7 @@ The functionality allows the user to select the currency they are converting fro
 ### TESTING
 I used test driven development by viewing the output of the code on the live server before deciding if the code was correct. I also tested the conversion between currencies viewed in the web app and the conversion between currencies viewed in the
 
-![Caspian Currency Conversion GBP - EUR])https://user-images.githubusercontent.com/91996898/213887962-25d60585-b4a3-45e8-8143-03753ec7b7ad.JPG)
+![Caspian Currency Conversion GBP - EUR](https://user-images.githubusercontent.com/91996898/213887962-25d60585-b4a3-45e8-8143-03753ec7b7ad.JPG)
 
 
 ![gGoogle Currency Conversion GBP - EUR](https://user-images.githubusercontent.com/91996898/213887978-d91d3091-26e1-403e-8455-9f51abdcc7f3.JPG)
