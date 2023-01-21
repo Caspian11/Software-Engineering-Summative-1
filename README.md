@@ -25,7 +25,7 @@ After the design elements were coded in Visual Studio i coded the functionality 
 The functionality allows the user to select the currency they are converting from and to such as GBP (Great British Pounds) to JPY (Japanese Yen). The JavaScript code is assigned to an API which contains the abbreviations and the full names of all currencies(https://api.frankfurter.app/currencies) and also an API for conversion rates (api.frankfurter.app).
 
 ### TESTING
-I used test driven development by viewing the output of the code on the live server before deciding if the code was correct. I also tested the conversion between currencies viewed in the web app and the conversion between currencies viewed in the
+I used test driven development by viewing the output of the code on the live server before deciding if the code was correct and how i wanted the design to look. If the design was not correct, i would change the code until the output was correct. I also tested the conversion between currencies viewed in the web app and the conversion between currencies viewed in the
 
 ![Caspian Currency Conversion GBP - EUR](https://user-images.githubusercontent.com/91996898/213887962-25d60585-b4a3-45e8-8143-03753ec7b7ad.JPG)
 
