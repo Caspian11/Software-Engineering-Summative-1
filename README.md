@@ -12,7 +12,7 @@ The first step was to decide the web app to be built, as this is my first time i
 The second step was to decide which visual design tool to use, i chose to use Figma as i like the simplicity of Figma and the areas of CSS code it offers and Figmas is a free alternative to Jira.
 The third step was to create an account and design a simple currency converter outline in Figma. Keep the design simple, so i can move on to the coding of the product. Here is a screenshot of the initial currency converter design in Figma.
 
-![First Figma Design](https://user-images.githubusercontent.com/91996898/213736098-0fe766be-d690-49fd-b03e-c475999d70b2.JPG)
+![First Figma Design](https://user-images.githubusercontent.com/91996898/213887177-de915e21-35d5-4f1b-ab3c-957eed06a2de.JPG)
 
 Once the initial design was ready, i used Visual Studio Code to write the HTML and CSS code, JavaScript was added at a later date as JavaScript is the functionality and i did not need this to build the visual design of the currency converter. This allowed the project to move forward more quickly as i did not need to build the app end to end before any progress could be viewed.
 
